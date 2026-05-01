@@ -46,6 +46,7 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [2351-first-letter-to-appear-twice](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/2351-first-letter-to-appear-twice) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -56,6 +57,7 @@
 |  |
 | ------- |
 | [2351-first-letter-to-appear-twice](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/2351-first-letter-to-appear-twice) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -79,4 +81,8 @@
 | [0724-find-pivot-index](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/1991-find-the-middle-index-in-array) |
+## Stack
+|  |
+| ------- |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/3746-minimum-string-length-after-balanced-removals) |
 <!---LeetCode Topics End-->
