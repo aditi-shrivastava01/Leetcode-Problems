@@ -53,6 +53,7 @@
 | ------- |
 | [0136-single-number](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0342-power-of-four) |
 | [2351-first-letter-to-appear-twice](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/2351-first-letter-to-appear-twice) |
 ## Counting
 |  |
@@ -73,6 +74,7 @@
 | ------- |
 | [0202-happy-number](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0342-power-of-four) |
 ## Binary Search
 |  |
 | ------- |
@@ -88,4 +90,8 @@
 |  |
 | ------- |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/3746-minimum-string-length-after-balanced-removals) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
