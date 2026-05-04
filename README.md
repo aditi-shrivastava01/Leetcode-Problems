@@ -17,6 +17,7 @@
 | [1991-find-the-middle-index-in-array](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/1991-find-the-middle-index-in-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3028-ant-on-the-boundary](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/3028-ant-on-the-boundary) |
+| [3866-first-unique-even-element](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/3866-first-unique-even-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [3866-first-unique-even-element](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/3866-first-unique-even-element) |
 ## String
 |  |
 | ------- |
@@ -72,6 +74,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/2351-first-letter-to-appear-twice) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/3746-minimum-string-length-after-balanced-removals) |
+| [3866-first-unique-even-element](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/3866-first-unique-even-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
