@@ -52,6 +52,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0242-valid-anagram) |
+| [0657-robot-return-to-origin](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0657-robot-return-to-origin) |
 | [2351-first-letter-to-appear-twice](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/2351-first-letter-to-appear-twice) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Bit Manipulation
@@ -75,6 +76,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0657-robot-return-to-origin) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3028-ant-on-the-boundary](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/3028-ant-on-the-boundary) |
 ## Math
