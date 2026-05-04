@@ -12,6 +12,7 @@
 | [0268-missing-number](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0724-find-pivot-index](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [0881-boats-to-save-people](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0881-boats-to-save-people) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/1991-find-the-middle-index-in-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -46,6 +47,7 @@
 | [0229-majority-element-ii](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0268-missing-number) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## String
@@ -67,6 +69,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0229-majority-element-ii) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/2351-first-letter-to-appear-twice) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Heap (Priority Queue)
