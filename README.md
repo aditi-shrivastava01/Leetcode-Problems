@@ -6,6 +6,7 @@
 | ------- |
 | [0041-first-missing-positive](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0041-first-missing-positive) |
 | [0136-single-number](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0724-find-pivot-index](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0724-find-pivot-index) |
@@ -27,6 +28,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0268-missing-number) |
@@ -36,6 +38,7 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0242-valid-anagram) |
@@ -58,6 +61,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0169-majority-element) |
 | [2351-first-letter-to-appear-twice](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/2351-first-letter-to-appear-twice) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Heap (Priority Queue)
@@ -94,4 +98,8 @@
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0342-power-of-four) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
