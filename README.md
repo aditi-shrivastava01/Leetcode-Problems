@@ -16,6 +16,7 @@
 | [1732-find-the-highest-altitude](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/1991-find-the-middle-index-in-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [3028-ant-on-the-boundary](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/3028-ant-on-the-boundary) |
 | [3866-first-unique-even-element](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/3866-first-unique-even-element) |
 ## Two Pointers
@@ -66,6 +67,7 @@
 | [0268-missing-number](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0342-power-of-four) |
 | [2351-first-letter-to-appear-twice](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/2351-first-letter-to-appear-twice) |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/2425-bitwise-xor-of-all-pairings) |
 ## Counting
 |  |
 | ------- |
@@ -114,4 +116,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0169-majority-element) |
+## Brainteaser
+|  |
+| ------- |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/2425-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
