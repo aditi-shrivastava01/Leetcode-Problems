@@ -69,6 +69,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0389-find-the-difference) |
@@ -123,6 +124,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0191-number-of-1-bits) |
 ## Brainteaser
 |  |
 | ------- |
