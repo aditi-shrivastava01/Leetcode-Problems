@@ -12,6 +12,7 @@
 | [0229-majority-element-ii](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0724-find-pivot-index](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0724-find-pivot-index) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0881-boats-to-save-people](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0881-boats-to-save-people) |
 | [0930-binary-subarrays-with-sum](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -41,6 +42,7 @@
 | [0242-valid-anagram](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0389-find-the-difference) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0881-boats-to-save-people](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0881-boats-to-save-people) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Hash Table
