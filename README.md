@@ -14,6 +14,7 @@
 | [0724-find-pivot-index](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0881-boats-to-save-people](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0905-sort-array-by-parity) |
 | [0930-binary-subarrays-with-sum](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/1732-find-the-highest-altitude) |
@@ -28,6 +29,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0881-boats-to-save-people](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0905-sort-array-by-parity) |
 ## Greedy
 |  |
 | ------- |
@@ -44,6 +46,7 @@
 | [0389-find-the-difference](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0881-boats-to-save-people](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0905-sort-array-by-parity) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Hash Table
 |  |
