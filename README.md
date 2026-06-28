@@ -17,6 +17,7 @@
 | [0881-boats-to-save-people](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0905-sort-array-by-parity) |
 | [0930-binary-subarrays-with-sum](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0930-binary-subarrays-with-sum) |
+| [0999-available-captures-for-rook](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0999-available-captures-for-rook) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1572-matrix-diagonal-sum](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/1572-matrix-diagonal-sum) |
 | [1732-find-the-highest-altitude](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/1732-find-the-highest-altitude) |
@@ -102,6 +103,7 @@
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0657-robot-return-to-origin) |
 | [0867-transpose-matrix](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0867-transpose-matrix) |
+| [0999-available-captures-for-rook](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0999-available-captures-for-rook) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3028-ant-on-the-boundary](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/3028-ant-on-the-boundary) |
 ## Math
@@ -149,6 +151,7 @@
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0867-transpose-matrix) |
+| [0999-available-captures-for-rook](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0999-available-captures-for-rook) |
 | [1572-matrix-diagonal-sum](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/1572-matrix-diagonal-sum) |
 ## Dynamic Programming
 |  |
