@@ -13,6 +13,7 @@
 | [0268-missing-number](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0724-find-pivot-index](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0867-transpose-matrix](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0905-sort-array-by-parity) |
 | [0930-binary-subarrays-with-sum](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0930-binary-subarrays-with-sum) |
@@ -100,6 +101,7 @@
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0657-robot-return-to-origin) |
+| [0867-transpose-matrix](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0867-transpose-matrix) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3028-ant-on-the-boundary](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/3028-ant-on-the-boundary) |
 ## Math
@@ -145,5 +147,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
