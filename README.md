@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0041-first-missing-positive) |
 | [0136-single-number](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -54,6 +55,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0202-happy-number) |
