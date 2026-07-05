@@ -21,6 +21,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0999-available-captures-for-rook](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0999-available-captures-for-rook) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1572-matrix-diagonal-sum](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/1572-matrix-diagonal-sum) |
 | [1732-find-the-highest-altitude](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/1991-find-the-middle-index-in-array) |
@@ -127,6 +128,7 @@
 | ------- |
 | [0724-find-pivot-index](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0930-binary-subarrays-with-sum) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1732-find-the-highest-altitude](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/1991-find-the-middle-index-in-array) |
 | [3028-ant-on-the-boundary](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/3028-ant-on-the-boundary) |
@@ -153,6 +155,7 @@
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0930-binary-subarrays-with-sum) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Matrix
 |  |
 | ------- |
