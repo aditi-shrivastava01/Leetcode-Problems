@@ -123,12 +123,14 @@
 | [0202-happy-number](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
 | [0713-subarray-product-less-than-k](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Prefix Sum
