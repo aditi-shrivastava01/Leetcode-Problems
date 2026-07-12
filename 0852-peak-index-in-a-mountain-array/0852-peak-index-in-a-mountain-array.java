@@ -8,7 +8,7 @@ class Solution {
             low = mid +1;
         }
         else{
-            high = mid;
+            high = mid; //mid peak ho skta h
         }
        }
        return low;
