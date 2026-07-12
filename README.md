@@ -17,6 +17,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0904-fruit-into-baskets) |
@@ -129,6 +130,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0713-subarray-product-less-than-k](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0713-subarray-product-less-than-k) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Prefix Sum
 |  |
 | ------- |
