@@ -1,6 +1,10 @@
 class Solution {
     public int[] arrayRankTransform(int[] arr) {
-        int[] copy = arr.clone(); //ek copy arr banao taki usme rank store kre
+        int n = arr.length;//ek copy arr banao taki usme rank store kre
+        int[] copy = new int[n];
+        for(int i=0; i<n; i++){
+            copy[i] = arr[i];
+        }
         Arrays.sort(copy);
         HashMap<Integer, Integer> map = new HashMap<>();
         int rank=1;
