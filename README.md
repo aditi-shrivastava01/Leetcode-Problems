@@ -14,6 +14,7 @@
 | [0229-majority-element-ii](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0643-maximum-average-subarray-i](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -134,6 +135,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
+| [0704-binary-search](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Prefix Sum
