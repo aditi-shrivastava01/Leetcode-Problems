@@ -91,6 +91,7 @@
 | [0657-robot-return-to-origin](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0657-robot-return-to-origin) |
 | [2351-first-letter-to-appear-twice](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/2351-first-letter-to-appear-twice) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/3746-minimum-string-length-after-balanced-removals) |
+| [3856-trim-trailing-vowels](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/3856-trim-trailing-vowels) |
 ## Bit Manipulation
 |  |
 | ------- |
