@@ -43,6 +43,7 @@
 | [0202-happy-number](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0881-boats-to-save-people](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0905-sort-array-by-parity) |
+| [3884-first-matching-character-from-both-ends](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/3884-first-matching-character-from-both-ends) |
 ## Greedy
 |  |
 | ------- |
@@ -92,6 +93,7 @@
 | [2351-first-letter-to-appear-twice](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/2351-first-letter-to-appear-twice) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3856-trim-trailing-vowels](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/3856-trim-trailing-vowels) |
+| [3884-first-matching-character-from-both-ends](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/3884-first-matching-character-from-both-ends) |
 ## Bit Manipulation
 |  |
 | ------- |
