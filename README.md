@@ -137,6 +137,7 @@
 | [0268-missing-number](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Binary Search
 |  |
 | ------- |
