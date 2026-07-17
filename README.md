@@ -34,6 +34,7 @@
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [3028-ant-on-the-boundary](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/3028-ant-on-the-boundary) |
+| [3842-toggle-light-bulbs](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/3842-toggle-light-bulbs) |
 | [3866-first-unique-even-element](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/3866-first-unique-even-element) |
 ## Two Pointers
 |  |
@@ -61,6 +62,7 @@
 | [0905-sort-array-by-parity](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0905-sort-array-by-parity) |
 | [1331-rank-transform-of-an-array](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [3842-toggle-light-bulbs](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/3842-toggle-light-bulbs) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,6 +81,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [3842-toggle-light-bulbs](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/3842-toggle-light-bulbs) |
 | [3866-first-unique-even-element](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/3866-first-unique-even-element) |
 ## String
 |  |
@@ -119,6 +122,7 @@
 | [0999-available-captures-for-rook](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0999-available-captures-for-rook) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3028-ant-on-the-boundary](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/3028-ant-on-the-boundary) |
+| [3842-toggle-light-bulbs](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/3842-toggle-light-bulbs) |
 ## Math
 |  |
 | ------- |
