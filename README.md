@@ -127,6 +127,7 @@
 | [0999-available-captures-for-rook](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0999-available-captures-for-rook) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3028-ant-on-the-boundary](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/3028-ant-on-the-boundary) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3842-toggle-light-bulbs](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/3842-toggle-light-bulbs) |
 ## Math
 |  |
@@ -140,6 +141,7 @@
 | [0342-power-of-four](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
 | [3024-type-of-triangle](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/3024-type-of-triangle) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Binary Search
 |  |
