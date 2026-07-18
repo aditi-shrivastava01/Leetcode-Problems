@@ -33,6 +33,7 @@
 | [1991-find-the-middle-index-in-array](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/1991-find-the-middle-index-in-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/2425-bitwise-xor-of-all-pairings) |
+| [3024-type-of-triangle](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/3024-type-of-triangle) |
 | [3028-ant-on-the-boundary](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/3028-ant-on-the-boundary) |
 | [3842-toggle-light-bulbs](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/3842-toggle-light-bulbs) |
 | [3866-first-unique-even-element](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/3866-first-unique-even-element) |
@@ -63,6 +64,7 @@
 | [0905-sort-array-by-parity](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0905-sort-array-by-parity) |
 | [1331-rank-transform-of-an-array](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [3024-type-of-triangle](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/3024-type-of-triangle) |
 | [3842-toggle-light-bulbs](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/3842-toggle-light-bulbs) |
 ## Hash Table
 |  |
@@ -137,6 +139,7 @@
 | [0268-missing-number](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
+| [3024-type-of-triangle](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/3024-type-of-triangle) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Binary Search
 |  |
