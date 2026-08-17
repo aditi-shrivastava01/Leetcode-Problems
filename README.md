@@ -205,4 +205,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0062-unique-paths) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
