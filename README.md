@@ -174,6 +174,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0203-remove-linked-list-elements) |
 | [0342-power-of-four](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0342-power-of-four) |
 ## Divide and Conquer
 |  |
@@ -212,6 +213,7 @@
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
+| [0203-remove-linked-list-elements](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0203-remove-linked-list-elements) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
