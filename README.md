@@ -121,6 +121,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Simulation
 |  |
@@ -181,6 +182,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0191-number-of-1-bits) |
 ## Brainteaser
@@ -214,6 +216,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0147-insertion-sort-list](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0147-insertion-sort-list) |
@@ -222,4 +225,12 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
