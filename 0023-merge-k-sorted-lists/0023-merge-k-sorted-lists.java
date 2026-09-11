@@ -1,4 +1,4 @@
-//(similar sort linked list)
+//(similar to sort linked list)
 class Solution {
     public ListNode mergeKLists(ListNode[] lists) {
         ArrayList<Integer> arr = new ArrayList<>();
