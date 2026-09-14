@@ -45,6 +45,7 @@
 | [0202-happy-number](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0881-boats-to-save-people](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0905-sort-array-by-parity) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [3884-first-matching-character-from-both-ends](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/3884-first-matching-character-from-both-ends) |
 ## Greedy
 |  |
@@ -224,6 +225,7 @@
 | [0141-linked-list-cycle](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0147-insertion-sort-list](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0147-insertion-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0203-remove-linked-list-elements) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
