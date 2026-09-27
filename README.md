@@ -43,6 +43,7 @@
 | [0141-linked-list-cycle](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0881-boats-to-save-people](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0905-sort-array-by-parity) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -175,6 +176,7 @@
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Recursion
 |  |
@@ -182,6 +184,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0203-remove-linked-list-elements) |
+| [0234-palindrome-linked-list](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0342-power-of-four) |
 ## Divide and Conquer
 |  |
@@ -225,6 +228,7 @@
 | [0141-linked-list-cycle](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0147-insertion-sort-list](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0147-insertion-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0203-remove-linked-list-elements) |
+| [0234-palindrome-linked-list](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
