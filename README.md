@@ -24,6 +24,7 @@
 | [0904-fruit-into-baskets](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0905-sort-array-by-parity) |
 | [0930-binary-subarrays-with-sum](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0930-binary-subarrays-with-sum) |
+| [0980-unique-paths-iii](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0980-unique-paths-iii) |
 | [0999-available-captures-for-rook](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0999-available-captures-for-rook) |
 | [1331-rank-transform-of-an-array](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -112,6 +113,7 @@
 | [0268-missing-number](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0389-find-the-difference) |
+| [0980-unique-paths-iii](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0980-unique-paths-iii) |
 | [2351-first-letter-to-appear-twice](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/2425-bitwise-xor-of-all-pairings) |
 ## Counting
@@ -209,6 +211,7 @@
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0867-transpose-matrix) |
+| [0980-unique-paths-iii](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0980-unique-paths-iii) |
 | [0999-available-captures-for-rook](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0999-available-captures-for-rook) |
 | [1572-matrix-diagonal-sum](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/1572-matrix-diagonal-sum) |
 ## Dynamic Programming
@@ -242,4 +245,12 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0023-merge-k-sorted-lists) |
+## Backtracking
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0980-unique-paths-iii) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
