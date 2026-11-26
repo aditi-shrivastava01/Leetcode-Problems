@@ -261,6 +261,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -285,4 +286,5 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/aditi-shrivastava01/Leetcode-Problems/tree/master/2236-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
